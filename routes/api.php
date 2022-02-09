@@ -22,3 +22,5 @@ Route::get('prova', function(){
 
     return response()->json(compact('user'));
 });
+
+Route::get('posts', 'Api\PostController@index');
