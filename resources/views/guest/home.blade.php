@@ -9,5 +9,7 @@
 </head>
 <body>
   <h1>Guest HOME</h1>
+  
+  <script src=" {{asset('js/guest.js')}} "></script>
 </body>
 </html>
