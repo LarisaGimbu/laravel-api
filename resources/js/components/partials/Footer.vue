@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <h1>Footer</h1>
+    - Boolpress -
   </footer>
 </template>
 
@@ -11,5 +11,14 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  background-color: rgb(65, 65, 65);
+  padding: 10px;
+  text-align: center;
 
+}
 </style>

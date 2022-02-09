@@ -28,7 +28,7 @@ export default {
 <style lang="scss" scoped>
 header{
   text-align: center;
-  background-color: rgb(65, 65, 65);
+  background-color: black;
   ul{
     list-style: none;
     li{
