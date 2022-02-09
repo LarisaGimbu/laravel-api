@@ -8,7 +8,7 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Guest HOME</h1>
+  <div id="app"></div>
   
   <script src=" {{asset('js/guest.js')}} "></script>
 </body>
